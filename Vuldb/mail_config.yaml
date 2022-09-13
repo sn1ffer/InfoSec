@@ -1,0 +1,8 @@
+user: ""
+passwd: ""
+server: "smtp.yandex.ru"
+port: 587
+message: ""
+
+subject: "Vulnerabilities"
+to: ""
