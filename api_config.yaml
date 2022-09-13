@@ -1,0 +1,11 @@
+url: 'https://vuldb.com/?api'
+
+# Add your personal API key here
+personalApiKey: ''
+
+#count of vulnerabilities
+count: 50
+
+#The field details is 0 or 1 and declares if the results are basic or detailed.
+#This difference influences the API credit consumption.
+details: 0
